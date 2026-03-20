@@ -1,35 +1,19 @@
-# Olá! 👋
+# 👋 Olá, eu sou o Leandro
 
-Meu nome é Leandro Rodeguer Paulon
+🎯 Data Analyst em formação  
+📍 Guarulhos - SP  
 
-Sou um profissional em transição para a área de **Análise de Dados**, construindo projetos práticos utilizando Python para desenvolver habilidades em análise, visualização e interpretação de dados.
+## 🚀 Sobre mim
+Profissional em transição para a área de Dados, com experiência em análise de performance comercial e tomada de decisão baseada em métricas.
 
-## 🚀 Tecnologias e Ferramentas
+## 🛠️ Skills
+Python | Pandas | SQL | Power BI | HTML | Excel | Jupyter Notebook | GitHub
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-- GitHub
+## 📊 Projetos em destaque
 
-## 📊 Projetos
-
-🔎 **Análise de Performance Comercial com Python**
-
-Projeto de análise exploratória de dados de vendas para identificar padrões de faturamento e participação de produtos.
-
-Tecnologias utilizadas:
-- Python
-- Pandas
-- Matplotlib
-
-Link do projeto:
-(https://github.com/leandrorodeguer/analise-performance-comercial-python)
-
-## 🎯 Objetivo
-
-Construir experiência prática em análise de dados e contribuir com soluções baseadas em dados que apoiem a tomada de decisão.
+🔹 [Análise de Performance Comercial](https://github.com/leandrorodeguer/analise-performance-comercial-python)
+🔹 [Portfólio Data Analyst](https://github.com/leandrorodeguer/portfolio-data-analyst)  
+🔹 [Jogo da Forca](https://github.com/leandrorodeguer/jogo-da-forca-javascript)  
 
 ## 📫 Contato
-
-LinkedIn: (https://www.linkedin.com/in/leandrorodeguerpaulon/)
+LinkedIn: (https://www.linkedin.com/in/leandrorodeguerpaulon/) 
