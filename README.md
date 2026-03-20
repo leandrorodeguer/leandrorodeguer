@@ -12,7 +12,9 @@ Python | Pandas | SQL | Power BI | HTML | Excel | Jupyter Notebook | GitHub
 ## 📊 Projetos em destaque
 
 🔹 [Análise de Performance Comercial](https://github.com/leandrorodeguer/analise-performance-comercial-python)
-🔹 [Portfólio Data Analyst](https://github.com/leandrorodeguer/portfolio-data-analyst)  
+
+🔹 [Portfólio Data Analyst](https://github.com/leandrorodeguer/portfolio-data-analyst)
+
 🔹 [Jogo da Forca](https://github.com/leandrorodeguer/jogo-da-forca-javascript)  
 
 ## 📫 Contato
