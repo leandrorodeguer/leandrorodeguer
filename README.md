@@ -4,18 +4,70 @@
 📍 Guarulhos - SP  
 
 ## 🚀 Sobre mim
-Profissional em transição para a área de Dados, com experiência em análise de performance comercial e tomada de decisão baseada em métricas.
 
-## 🛠️ Skills
-Python | Pandas | SQL | Power BI | HTML | Excel | Jupyter Notebook | GitHub
+Sou um profissional em transição para a área de Dados, com foco em análise de dados, automação de processos e desenvolvimento de soluções práticas com Python.
 
-## 📊 Projetos em destaque
+Tenho construído projetos aplicando conceitos reais, buscando gerar insights e otimizar tarefas do dia a dia.
 
-🔹 [Análise de Performance Comercial](https://github.com/leandrorodeguer/analise-performance-comercial-python)
+---
 
-🔹 [Portfólio Data Analyst](https://github.com/leandrorodeguer/portfolio-data-analyst)
+## 🚀 Projetos em destaque
 
-🔹 [Jogo da Forca](https://github.com/leandrorodeguer/jogo-da-forca-javascript)  
+### 📊 Análise de Churn de Clientes
+- Base com mais de 800 mil registros  
+- Identificação dos principais fatores de cancelamento  
+- Simulação de estratégias para retenção  
+🔗 https://github.com/leandrorodeguer/analise-churn-clientes-python  
+
+---
+
+### 🤖 Automação de Cadastro de Produtos
+- Automação de tarefas repetitivas com Python  
+- Integração com base CSV  
+- Preenchimento automático de sistema web  
+🔗 https://github.com/leandrorodeguer/automacao-cadastro-produtos  
+
+---
+
+### 📈 Análise de Performance Comercial
+- Análise de indicadores de vendas  
+- Identificação de padrões e oportunidades de melhoria  
+- Apoio à tomada de decisão baseada em dados  
+🔗 https://github.com/leandrorodeguer/analise-performance-comercial-python  
+
+---
+
+### 📊 Portfólio de Data Analyst
+- Conjunto de análises exploratórias  
+- Tratamento e visualização de dados  
+- Projetos voltados para prática da área de dados  
+🔗 https://github.com/leandrorodeguer/portfolio-data-analyst  
+
+---
+
+### 🎮 Jogo da Forca (JavaScript)
+- Aplicação interativa  
+- Lógica de programação aplicada  
+- Manipulação de DOM  
+🔗 https://github.com/leandrorodeguer/jogo-da-forca-javascript  
+
+---
+
+## 🛠️ Tecnologias
+
+- Python  
+- Pandas  
+- PyAutoGUI  
+- JavaScript  
+- Power BI (em aprendizado)  
+
+---
+
+## 📈 Objetivo
+
+Atuar na área de Dados, aplicando análise, automação e soluções orientadas a dados para gerar valor e eficiência nos processos.
+
+---
 
 ## 📫 Contato
 LinkedIn: (https://www.linkedin.com/in/leandrorodeguerpaulon/) 
